@@ -12,12 +12,3 @@ g++ downloaded
 to compile, you can also do 
 ```bash
 g++ betamessagingversion.cpp -o messaging_app
-
-
-
-
-
-
-
-
-anyway thanks for reading this ig not alot of people read this
