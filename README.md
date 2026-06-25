@@ -11,4 +11,4 @@ g++ downloaded
 
 to compile, you can also do 
 ```bash
-g++ betamessagingversion.cpp -o messaging_app
+g++ betamessagingversion.cpp -o messaging_app -lboost_system -pthread
